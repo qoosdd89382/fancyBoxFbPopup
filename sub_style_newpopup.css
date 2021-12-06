@@ -53,7 +53,7 @@ body.blur-bg .fancybox-bg {
     width: 20px;
     height: 20px;
     top: -35px;
-    background: url(./svg/result/close-popup.svg) no-repeat;
+    background: url(https://raw.githack.com/qoosdd89382/fancyBoxFbPopup/main/svg/result/close-popup.svg) no-repeat;
     background-size: 100%;
 }
 
@@ -557,4 +557,10 @@ body.blur-bg .fancybox-bg {
     .scrollingPopupContent table th, .popups table td, .iframe-pop table th, .iframe-pop table td {
         font-size: 14px;
     }
+}
+.contentFiller {
+    overflow: hidden;
+    overflow-y: auto!important;
+    max-height: 440px;
+    padding: 0 15px;
 }
