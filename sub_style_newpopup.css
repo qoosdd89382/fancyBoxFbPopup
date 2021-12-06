@@ -53,7 +53,7 @@ body.blur-bg .fancybox-bg {
     width: 20px;
     height: 20px;
     top: -35px;
-    background: url(https://raw.githack.com/qoosdd89382/fancyBoxFbPopup/main/svg/result/close-popup.svg) no-repeat;
+    background: url(./svg/result/close-popup.svg) no-repeat;
     background-size: 100%;
 }
 
